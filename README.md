@@ -57,7 +57,7 @@ A public "push" mirror can be located on GitHub at: https://github.com/teslakit/
 Teslakit-SF was originally run on a Linux OS. 
 PermissionErrors may be encountered when writing to .nc files if not using Linux OS.
 
-For Linux installation instructions on Windows see: https://learn.microsoft.com/en-us/linux/install
+For Linux installation instructions on Windows see: https://learn.microsoft.com/en-us/linux/install.
 If using WSL for teslakit, modify all path references by adding the prefix "/mnt/".
 
 For Linux installation instruction on Mac see: https://www.hellotech.com/guide/for/how-to-install-linux-on-mac
