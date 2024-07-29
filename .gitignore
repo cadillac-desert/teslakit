@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.pyc
+*pcs.ipynb_*
+*.DS_Store
+teslakit_env*
+ipynbs/.ipynb_checkpoints/
+data/
+htmls/
+vses
+www.bom.gov.au/
+dist/
+teslakit.egg-info/
+.ipynb_checkpoints
+ReadJoaoMat.py
+build/
+CHANGES.txt
