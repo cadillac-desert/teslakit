@@ -151,9 +151,9 @@ Input data acquisition is currently not integrated in teslakit
 Open [input_configuration](./input_configuration.py) and fill in the input variables.
 *Note - the input_configuration only contains global input variables. Each notebook may contain varying/unique input values (e.g. simulation dates, coordinates, coefficients, etc.). Review these input values before running the associated code cell.*
 
-Once SF data is downloaded and unpacked, an input data check can be done at: [00_Set_Database.ipynb](notebooks/SF/01_Offshore/00_Set_Database.ipynb).
-
+Once data is downloaded and unpacked, an input data check can be done at: [00_Set_Database.ipynb](notebooks/SF/01_Offshore/00_Set_Database.ipynb).
 Place input data files in paths described in this notebook.
+San Francisco input data can be found at [teslakit-SF_data](https://github.com/cadillac-desert/teslakit-SF_data).
 
 
 ## Contributors
